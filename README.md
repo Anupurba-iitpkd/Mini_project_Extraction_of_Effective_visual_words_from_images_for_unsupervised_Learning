@@ -2,7 +2,7 @@
 Visual words were extracted from images using SIFT, ORB and FAST feature descriptors for unsupervised learning tasks. 
 
 Open CV version required : 4.4.0 and above (for executing SIFT)
-other dependencied : Numpy, Pandas, Sklearn, Sklearn Image, Scipy, Matplotlib
+other dependencies : Numpy, Pandas, Sklearn, Sklearn Image, Scipy, Matplotlib
 
 Colab notebook is divided into the following sections : All the sections can be executed independently. 
 
